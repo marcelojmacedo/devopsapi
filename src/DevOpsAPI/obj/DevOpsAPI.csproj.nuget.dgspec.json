@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Marcelo\\devopsapi\\src\\DevOpsAPI\\DevOpsAPI.csproj": {}
+    "C:\\Users\\Marcelo\\DevOpsAPI\\src\\DevOpsAPI\\DevOpsAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Marcelo\\devopsapi\\src\\DevOpsAPI\\DevOpsAPI.csproj": {
+    "C:\\Users\\Marcelo\\DevOpsAPI\\src\\DevOpsAPI\\DevOpsAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Marcelo\\devopsapi\\src\\DevOpsAPI\\DevOpsAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Marcelo\\DevOpsAPI\\src\\DevOpsAPI\\DevOpsAPI.csproj",
         "projectName": "DevOpsAPI",
-        "projectPath": "C:\\Users\\Marcelo\\devopsapi\\src\\DevOpsAPI\\DevOpsAPI.csproj",
+        "projectPath": "C:\\Users\\Marcelo\\DevOpsAPI\\src\\DevOpsAPI\\DevOpsAPI.csproj",
         "packagesPath": "C:\\Users\\Marcelo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Marcelo\\devopsapi\\src\\DevOpsAPI\\obj\\",
+        "outputPath": "C:\\Users\\Marcelo\\DevOpsAPI\\src\\DevOpsAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

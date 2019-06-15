@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Marcelo\\devopsapi\\test\\DevOpsAPI.Tests\\DevOpsAPI.Tests.csproj": {}
+    "C:\\Users\\Marcelo\\DevOpsAPI\\test\\DevOpsAPI.Tests\\DevOpsAPI.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Marcelo\\devopsapi\\src\\DevOpsAPI\\DevOpsAPI.csproj": {
+    "C:\\Users\\Marcelo\\DevOpsAPI\\src\\DevOpsAPI\\DevOpsAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Marcelo\\devopsapi\\src\\DevOpsAPI\\DevOpsAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Marcelo\\DevOpsAPI\\src\\DevOpsAPI\\DevOpsAPI.csproj",
         "projectName": "DevOpsAPI",
-        "projectPath": "C:\\Users\\Marcelo\\devopsapi\\src\\DevOpsAPI\\DevOpsAPI.csproj",
+        "projectPath": "C:\\Users\\Marcelo\\DevOpsAPI\\src\\DevOpsAPI\\DevOpsAPI.csproj",
         "packagesPath": "C:\\Users\\Marcelo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Marcelo\\devopsapi\\src\\DevOpsAPI\\obj\\",
+        "outputPath": "C:\\Users\\Marcelo\\DevOpsAPI\\src\\DevOpsAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\Users\\Marcelo\\devopsapi\\test\\DevOpsAPI.Tests\\DevOpsAPI.Tests.csproj": {
+    "C:\\Users\\Marcelo\\DevOpsAPI\\test\\DevOpsAPI.Tests\\DevOpsAPI.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Marcelo\\devopsapi\\test\\DevOpsAPI.Tests\\DevOpsAPI.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\Marcelo\\DevOpsAPI\\test\\DevOpsAPI.Tests\\DevOpsAPI.Tests.csproj",
         "projectName": "DevOpsAPI.Tests",
-        "projectPath": "C:\\Users\\Marcelo\\devopsapi\\test\\DevOpsAPI.Tests\\DevOpsAPI.Tests.csproj",
+        "projectPath": "C:\\Users\\Marcelo\\DevOpsAPI\\test\\DevOpsAPI.Tests\\DevOpsAPI.Tests.csproj",
         "packagesPath": "C:\\Users\\Marcelo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Marcelo\\devopsapi\\test\\DevOpsAPI.Tests\\obj\\",
+        "outputPath": "C:\\Users\\Marcelo\\DevOpsAPI\\test\\DevOpsAPI.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -96,8 +96,8 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "C:\\Users\\Marcelo\\devopsapi\\src\\DevOpsAPI\\DevOpsAPI.csproj": {
-                "projectPath": "C:\\Users\\Marcelo\\devopsapi\\src\\DevOpsAPI\\DevOpsAPI.csproj"
+              "C:\\Users\\Marcelo\\DevOpsAPI\\src\\DevOpsAPI\\DevOpsAPI.csproj": {
+                "projectPath": "C:\\Users\\Marcelo\\DevOpsAPI\\src\\DevOpsAPI\\DevOpsAPI.csproj"
               }
             }
           }
