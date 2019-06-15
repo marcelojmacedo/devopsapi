@@ -17,7 +17,6 @@ C:\Users\Marcelo\DevOpsAPI\src\DevOpsAPI\bin\Debug\netcoreapp2.1\DevOpsAPI.runti
 C:\Users\Marcelo\DevOpsAPI\src\DevOpsAPI\bin\Debug\netcoreapp2.1\DevOpsAPI.runtimeconfig.dev.json
 C:\Users\Marcelo\DevOpsAPI\src\DevOpsAPI\bin\Debug\netcoreapp2.1\DevOpsAPI.dll
 C:\Users\Marcelo\DevOpsAPI\src\DevOpsAPI\bin\Debug\netcoreapp2.1\DevOpsAPI.pdb
-C:\Users\Marcelo\DevOpsAPI\src\DevOpsAPI\obj\Debug\netcoreapp2.1\DevOpsAPI.csprojAssemblyReference.cache
 C:\Users\Marcelo\DevOpsAPI\src\DevOpsAPI\obj\Debug\netcoreapp2.1\DevOpsAPI.csproj.CoreCompileInputs.cache
 C:\Users\Marcelo\DevOpsAPI\src\DevOpsAPI\obj\Debug\netcoreapp2.1\DevOpsAPI.RazorAssemblyInfo.cache
 C:\Users\Marcelo\DevOpsAPI\src\DevOpsAPI\obj\Debug\netcoreapp2.1\DevOpsAPI.RazorAssemblyInfo.cs
@@ -26,3 +25,4 @@ C:\Users\Marcelo\DevOpsAPI\src\DevOpsAPI\obj\Debug\netcoreapp2.1\DevOpsAPI.Assem
 C:\Users\Marcelo\DevOpsAPI\src\DevOpsAPI\obj\Debug\netcoreapp2.1\DevOpsAPI.RazorTargetAssemblyInfo.cache
 C:\Users\Marcelo\DevOpsAPI\src\DevOpsAPI\obj\Debug\netcoreapp2.1\DevOpsAPI.dll
 C:\Users\Marcelo\DevOpsAPI\src\DevOpsAPI\obj\Debug\netcoreapp2.1\DevOpsAPI.pdb
+C:\Users\Marcelo\devopsapi\src\DevOpsAPI\obj\Debug\netcoreapp2.1\DevOpsAPI.csprojAssemblyReference.cache

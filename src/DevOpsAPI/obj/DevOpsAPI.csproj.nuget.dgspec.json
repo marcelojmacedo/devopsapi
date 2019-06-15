@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Marcelo\\devopsapi\\src\\DevOpsAPI\\DevOpsApi.csproj": {}
+    "C:\\Users\\Marcelo\\devopsapi\\src\\DevOpsAPI\\DevOpsAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Marcelo\\devopsapi\\src\\DevOpsAPI\\DevOpsApi.csproj": {
+    "C:\\Users\\Marcelo\\devopsapi\\src\\DevOpsAPI\\DevOpsAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Marcelo\\devopsapi\\src\\DevOpsAPI\\DevOpsApi.csproj",
-        "projectName": "DevOpsApi",
-        "projectPath": "C:\\Users\\Marcelo\\devopsapi\\src\\DevOpsAPI\\DevOpsApi.csproj",
+        "projectUniqueName": "C:\\Users\\Marcelo\\devopsapi\\src\\DevOpsAPI\\DevOpsAPI.csproj",
+        "projectName": "DevOpsAPI",
+        "projectPath": "C:\\Users\\Marcelo\\devopsapi\\src\\DevOpsAPI\\DevOpsAPI.csproj",
         "packagesPath": "C:\\Users\\Marcelo\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Marcelo\\devopsapi\\src\\DevOpsAPI\\obj\\",
         "projectStyle": "PackageReference",

@@ -8,7 +8,7 @@
     ".NETCoreApp,Version=v2.1": {
       "DevOpsAPI.Tests/1.0.0": {
         "dependencies": {
-          "DevOpsApi": "1.0.0",
+          "DevOpsAPI": "1.0.0",
           "Microsoft.AspNetCore.Mvc.Core": "2.1.1",
           "Microsoft.NET.Test.Sdk": "15.9.0",
           "xunit": "2.4.0",
@@ -1387,9 +1387,9 @@
           "Microsoft.NET.Test.Sdk": "15.9.0"
         }
       },
-      "DevOpsApi/1.0.0": {
+      "DevOpsAPI/1.0.0": {
         "runtime": {
-          "DevOpsApi.dll": {}
+          "DevOpsAPI.dll": {}
         }
       }
     }
@@ -2149,7 +2149,7 @@
       "path": "xunit.runner.visualstudio/2.4.0",
       "hashPath": "xunit.runner.visualstudio.2.4.0.nupkg.sha512"
     },
-    "DevOpsApi/1.0.0": {
+    "DevOpsAPI/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

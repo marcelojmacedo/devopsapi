@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Marcelo\\devopsapi\\test\\devopsapi.tests\\DevOpsAPI.Tests.csproj": {}
+    "C:\\Users\\Marcelo\\devopsapi\\test\\DevOpsAPI.Tests\\DevOpsAPI.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Marcelo\\devopsapi\\src\\DevOpsAPI\\DevOpsApi.csproj": {
+    "C:\\Users\\Marcelo\\devopsapi\\src\\DevOpsAPI\\DevOpsAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Marcelo\\devopsapi\\src\\DevOpsAPI\\DevOpsApi.csproj",
-        "projectName": "DevOpsApi",
-        "projectPath": "C:\\Users\\Marcelo\\devopsapi\\src\\DevOpsAPI\\DevOpsApi.csproj",
+        "projectUniqueName": "C:\\Users\\Marcelo\\devopsapi\\src\\DevOpsAPI\\DevOpsAPI.csproj",
+        "projectName": "DevOpsAPI",
+        "projectPath": "C:\\Users\\Marcelo\\devopsapi\\src\\DevOpsAPI\\DevOpsAPI.csproj",
         "packagesPath": "C:\\Users\\Marcelo\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Marcelo\\devopsapi\\src\\DevOpsAPI\\obj\\",
         "projectStyle": "PackageReference",
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\Users\\Marcelo\\devopsapi\\test\\devopsapi.tests\\DevOpsAPI.Tests.csproj": {
+    "C:\\Users\\Marcelo\\devopsapi\\test\\DevOpsAPI.Tests\\DevOpsAPI.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Marcelo\\devopsapi\\test\\devopsapi.tests\\DevOpsAPI.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\Marcelo\\devopsapi\\test\\DevOpsAPI.Tests\\DevOpsAPI.Tests.csproj",
         "projectName": "DevOpsAPI.Tests",
-        "projectPath": "C:\\Users\\Marcelo\\devopsapi\\test\\devopsapi.tests\\DevOpsAPI.Tests.csproj",
+        "projectPath": "C:\\Users\\Marcelo\\devopsapi\\test\\DevOpsAPI.Tests\\DevOpsAPI.Tests.csproj",
         "packagesPath": "C:\\Users\\Marcelo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Marcelo\\devopsapi\\test\\devopsapi.tests\\obj\\",
+        "outputPath": "C:\\Users\\Marcelo\\devopsapi\\test\\DevOpsAPI.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -96,8 +96,8 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "C:\\Users\\Marcelo\\devopsapi\\src\\DevOpsAPI\\DevOpsApi.csproj": {
-                "projectPath": "C:\\Users\\Marcelo\\devopsapi\\src\\DevOpsAPI\\DevOpsApi.csproj"
+              "C:\\Users\\Marcelo\\devopsapi\\src\\DevOpsAPI\\DevOpsAPI.csproj": {
+                "projectPath": "C:\\Users\\Marcelo\\devopsapi\\src\\DevOpsAPI\\DevOpsAPI.csproj"
               }
             }
           }

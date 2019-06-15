@@ -2059,17 +2059,17 @@
           "build/netcoreapp1.0/xunit.runner.visualstudio.props": {}
         }
       },
-      "DevOpsApi/1.0.0": {
+      "DevOpsAPI/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.1",
         "dependencies": {
           "Microsoft.NETCore.App": "2.1.0"
         },
         "compile": {
-          "bin/placeholder/DevOpsApi.dll": {}
+          "bin/placeholder/DevOpsAPI.dll": {}
         },
         "runtime": {
-          "bin/placeholder/DevOpsApi.dll": {}
+          "bin/placeholder/DevOpsAPI.dll": {}
         }
       }
     }
@@ -6733,15 +6733,15 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
-    "DevOpsApi/1.0.0": {
+    "DevOpsAPI/1.0.0": {
       "type": "project",
-      "path": "../../src/DevOpsAPI/DevOpsApi.csproj",
-      "msbuildProject": "../../src/DevOpsAPI/DevOpsApi.csproj"
+      "path": "../../src/DevOpsAPI/DevOpsAPI.csproj",
+      "msbuildProject": "../../src/DevOpsAPI/DevOpsAPI.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
-      "DevOpsApi >= 1.0.0",
+      "DevOpsAPI >= 1.0.0",
       "Microsoft.AspNetCore.Mvc.Core >= 2.1.1",
       "Microsoft.NET.Test.Sdk >= 15.9.0",
       "Microsoft.NETCore.App >= 2.1.0",
@@ -6757,11 +6757,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Marcelo\\devopsapi\\test\\devopsapi.tests\\DevOpsAPI.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Marcelo\\devopsapi\\test\\DevOpsAPI.Tests\\DevOpsAPI.Tests.csproj",
       "projectName": "DevOpsAPI.Tests",
-      "projectPath": "C:\\Users\\Marcelo\\devopsapi\\test\\devopsapi.tests\\DevOpsAPI.Tests.csproj",
+      "projectPath": "C:\\Users\\Marcelo\\devopsapi\\test\\DevOpsAPI.Tests\\DevOpsAPI.Tests.csproj",
       "packagesPath": "C:\\Users\\Marcelo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Marcelo\\devopsapi\\test\\devopsapi.tests\\obj\\",
+      "outputPath": "C:\\Users\\Marcelo\\devopsapi\\test\\DevOpsAPI.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -6782,8 +6782,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\Marcelo\\devopsapi\\src\\DevOpsAPI\\DevOpsApi.csproj": {
-              "projectPath": "C:\\Users\\Marcelo\\devopsapi\\src\\DevOpsAPI\\DevOpsApi.csproj"
+            "C:\\Users\\Marcelo\\devopsapi\\src\\DevOpsAPI\\DevOpsAPI.csproj": {
+              "projectPath": "C:\\Users\\Marcelo\\devopsapi\\src\\DevOpsAPI\\DevOpsAPI.csproj"
             }
           }
         }
